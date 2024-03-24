@@ -1,1 +1,2 @@
 import enc
+enc.MainMenu()
