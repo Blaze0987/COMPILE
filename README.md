@@ -13,7 +13,17 @@ cd $HOME
 rm -rf ENC
 git clone https://github.com/AHMED-143/PyObsuscate
 cd PyObsuscate
-python3 ENC. py
+python3 ENC.py
 ```
 ## :small_red_triangle_down:
 
+## :bangbang:
+* 𝗧𝗢𝗢𝗟𝗦 𝗡𝗨𝗠𝗕𝗘𝗥 2 : 𝗠𝗘𝗗𝗜𝗨𝗠
+```
+cd $HOME
+rm -rf ENC
+git clone https://github.com/AHMED-143/PyObsuscate
+cd PyObsuscate
+python3 Encrypted.py
+```
+## :bangbang:
