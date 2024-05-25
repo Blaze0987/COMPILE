@@ -40,4 +40,4 @@ chmod 777 main
 ```
 ## :biohazard:
 
-* 𝗘𝗡𝗗 ## :sweat_smile:
+* 𝗘𝗡𝗗  :sweat_smile:
