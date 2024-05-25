@@ -21,7 +21,7 @@ python3 ENC.py
 * 𝗧𝗢𝗢𝗟𝗦 𝗡𝗨𝗠𝗕𝗘𝗥 2 : 𝗠𝗘𝗗𝗜𝗨𝗠
 ```
 cd $HOME
-rm -rf ENC
+rm -rf Encrypted
 git clone https://github.com/AHMED-143/PyObsuscate
 cd PyObsuscate
 python3 Encrypted.py
@@ -37,3 +37,7 @@ git clone https://github.com/AHMED-143/PyObsuscate
 cd PyObsuscate
 chmod 777 main
 ./main
+```
+## :biohazard:
+
+* 𝗘𝗡𝗗 ## :sweat_smile:
