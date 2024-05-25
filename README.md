@@ -27,3 +27,13 @@ cd PyObsuscate
 python3 Encrypted.py
 ```
 ## :bangbang:
+
+## :biohazard:
+* 𝗧𝗢𝗢𝗟𝗦 𝗡𝗨𝗠𝗕𝗘𝗥 3 : 𝗔𝗗𝗩𝗔𝗡𝗖𝗘
+```
+cd $HOME
+rm -rf main
+git clone https://github.com/AHMED-143/PyObsuscate
+cd PyObsuscate
+chmod 777 main
+./main
