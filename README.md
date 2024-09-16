@@ -11,7 +11,7 @@
 ```
 cd $HOME
 rm -rf ENC
-git clone https://github.com/AHMED-143/PyObsuscate
+git clone https://github.com/PRIME-404/PyObsuscate
 cd PyObsuscate
 python3 ENC.py
 ```
@@ -22,7 +22,7 @@ python3 ENC.py
 ```
 cd $HOME
 rm -rf Encrypted
-git clone https://github.com/AHMED-143/PyObsuscate
+git clone https://github.com/PRIME-404/PyObsuscate
 cd PyObsuscate
 python3 Encrypted.py
 ```
@@ -33,7 +33,7 @@ python3 Encrypted.py
 ```
 cd $HOME
 rm -rf main
-git clone https://github.com/AHMED-143/PyObsuscate
+git clone https://github.com/PRIME-404/PyObsuscate
 cd PyObsuscate
 chmod 777 main
 ./main
