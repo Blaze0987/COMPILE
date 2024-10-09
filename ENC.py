@@ -1,0 +1,2 @@
+import enc
+enc.MainMenu()
