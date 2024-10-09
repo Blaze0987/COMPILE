@@ -1,2 +1,0 @@
-import enc
-enc.main()
