@@ -1,2 +1,2 @@
-import enc
-enc.MainMenu()
+import encoder
+encoder.MainMenu()
