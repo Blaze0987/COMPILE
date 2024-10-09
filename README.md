@@ -35,8 +35,7 @@ cd $HOME
 rm -rf main
 git clone https://github.com/PRIME-404/PyObsuscate
 cd PyObsuscate
-chmod 777 main
-./main
+python Compile.py
 ```
 ## :biohazard:
 
