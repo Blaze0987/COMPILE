@@ -1,2 +1,2 @@
-import Encrypt 
-Encrypt.main()
+import enc
+enc.main()
