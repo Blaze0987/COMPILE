@@ -32,7 +32,7 @@ python3 Encrypted.py
 * 𝗧𝗢𝗢𝗟𝗦 𝗡𝗨𝗠𝗕𝗘𝗥 3 : 𝗔𝗗𝗩𝗔𝗡𝗖𝗘
 ```
 cd $HOME
-rm -rf main
+rm -rf Compile
 git clone https://github.com/PRIME-404/PyObsuscate
 cd PyObsuscate
 python Compile.py
